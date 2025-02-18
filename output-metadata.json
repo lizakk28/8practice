@@ -1,7 +1,7 @@
 {
   "version": 3,
   "artifactType": {
-    "type": "APK",
+    "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
   "applicationId": "com.example.gorodetskaya_prakt8",
@@ -13,9 +13,8 @@
       "attributes": [],
       "versionCode": 1,
       "versionName": "1.0",
-      "outputFile": "app-debug.apk"
+      "outputFile": "AndroidManifest.xml"
     }
   ],
-  "elementType": "File",
-  "minSdkVersionForDexing": 24
+  "elementType": "File"
 }
